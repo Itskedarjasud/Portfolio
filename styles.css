@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    color: #444444;
+    background-color: #F4F9F9;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #62B6B7;
+}
+h2{
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 3rem;
+   
+    font-weight: normal;
+    padding-bottom: 10px;
+    color: #11999E;
+}
+h3{
+    font-family: 'Patrick Hand SC', cursive;
+   
+    font-size: 2rem;
+    color: #66BFBF;
+}
+p{
+    line-height: 1.5;
+    
+}
+hr{
+    border: double #444444 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto ;
+}
+a{
+    margin: 10px 20px;
+}
+
+
+.intro{
+    width: 35%;
+    margin: auto;
+    
+}
+.contact-message{
+    width: 35%;
+    margin: 40px auto 60px;
+}
+  .top-container{
+              
+              position: relative;
+              padding-top: 120px;
+  }
+.middle-container{
+    margin: 100px 0px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px ;
+}
+ .top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 30px;
+    
+ }
+ .bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+   
+ }
+ .skill-photoshop{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: right;
+    line-height:1.5;
+    
+ }
+ .skill-program{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+ .program-image{
+    width: 20%;
+    float: left ;
+    margin-right: 30px;
+ }
+ .photoshop-image{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+ }
+ 
+
+
+              
